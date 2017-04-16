@@ -1,5 +1,5 @@
 FROM phusion/baseimage:latest
-MAINTAINER Jonathon Leight <jonathon.leight@jleight.com>
+MAINTAINER Justin Ayers <gizmochief7@gmail.com>
 
 ENV JAVA_VERSION 7u75
 ENV JAVA_DEBIAN_VERSION 7u75-2.5.4-1~trusty1
